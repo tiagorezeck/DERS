@@ -1,0 +1,6 @@
+{
+  "name": "DERS-16 — Escala de Dificuldades na Regulação Emocional",
+  "description": "Plataforma psicométrica e de conformidade ética baseada na versão validada de 16 itens do DERS (Bjureberg et al., 2016). Inclui cálculo exato, inteligência artificial para reflexão pessoal e orientações de conformidade jurídica/RH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
